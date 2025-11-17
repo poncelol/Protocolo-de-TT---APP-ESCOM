@@ -1,0 +1,3619 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.3)  17 NOV 2025 15:48
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./ejemplo.tex
+(ejemplo.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/base\bk10.clo
+File: bk10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@chapter=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\c@figure=\count194
+\c@table=\count195
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+)
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+) (C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen141
+\ar@mcellbox=\box51
+\extrarowheight=\dimen142
+\NC@list=\toks17
+\extratabsurround=\skip50
+\backup@length=\skip51
+\ar@cellbox=\box52
+)
+\everycr=\toks18
+\minrowclearance=\skip52
+\rownum=\count196
+)
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2023-11-26 v7.01g Hypertext links for LaTeX
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count197
+)
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count198
+)
+\@linkdim=\dimen143
+\Hy@linkcounter=\count199
+\Hy@pagecounter=\count266
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2023-11-26 v7.01g Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count267
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2023-11-26 v7.01g Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4181.
+Package hyperref Info: Link nesting OFF on input line 4186.
+Package hyperref Info: Hyper index ON on input line 4189.
+Package hyperref Info: Plain pages OFF on input line 4196.
+Package hyperref Info: Backreferencing OFF on input line 4201.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4448.
+\c@Hy@tempcnt=\count268
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4786.
+\XeTeXLinkMargin=\dimen144
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count269
+\Field@Width=\dimen145
+\Fld@charsize=\dimen146
+Package hyperref Info: Hyper figures OFF on input line 6065.
+Package hyperref Info: Link nesting OFF on input line 6070.
+Package hyperref Info: Hyper index ON on input line 6073.
+Package hyperref Info: backreferencing OFF on input line 6080.
+Package hyperref Info: Link coloring OFF on input line 6085.
+Package hyperref Info: Link coloring with OCG OFF on input line 6090.
+Package hyperref Info: PDF/A mode OFF on input line 6095.
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count270
+\c@Item=\count271
+\c@Hfootnote=\count272
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2023-11-26 v7.01g Hyperref driver for pdfTeX
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count273
+\c@bookmark@seq@number=\count274
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+84.
+)
+\Hy@SectionHShift=\skip53
+)
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
+\LTleft=\skip54
+\LTright=\skip55
+\LTpre=\skip56
+\LTpost=\skip57
+\LTchunksize=\count275
+\LTcapwidth=\dimen147
+\LT@head=\box53
+\LT@firsthead=\box54
+\LT@foot=\box55
+\LT@lastfoot=\box56
+\LT@gbox=\box57
+\LT@cols=\count276
+\LT@rows=\count277
+\c@LT@tables=\count278
+\c@LT@chunks=\count279
+\LT@p@ftn=\toks20
+)
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
+) (cdtUsecases.sty (cdtRequerimientos.sty (cdtBook.sty
+Package: cdtBook 2010/05/30, v1.0 CDT-ESCOM-IPN Plantilla para reportes de la C
+oordinación
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks21
+\inpenc@posthook=\toks22
+)
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2024/01/07 v24.1 The Babel package
+\babel@savecnt=\count280
+\U@D=\dimen150
+\l@unhyphenated=\language79
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count281
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.l
+df
+Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
+\es@quottoks=\toks23
+\es@quotdepth=\count282
+Package babel Info: Making " an active character on input line 570.
+Package babel Info: Making . an active character on input line 675.
+Package babel Info: Making < an active character on input line 722.
+Package babel Info: Making > an active character on input line 722.
+))
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/es\babel
+-spanish.tex
+Package babel Info: Importing font and identification data for spanish
+(babel)             from babel-es.ini. Reported on input line 11.
+)
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/cmbright\cmbright.sty
+Package: cmbright 2005/04/13 v8.1 (WaS)
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/cmbr/m/n on input line 29.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmbr/m/n on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/cmbrm/m/it on input line 30.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/cmbrm/m/it on input line 30.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmbrm/m/it --> OML/cmbrm/b/it on input line 31.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 32.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/cmbrs/m/n on input line 32.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/cmbrs/m/n on input line 32.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/cmbr/m/sl on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/cmbr/m/sl on input line 33.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/cmbr/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmbr/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtl/m/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtl/m/n on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \alpha on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \beta on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \gamma on input line 39.
+LaTeX Font Info:    Redeclaring math symbol \delta on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \epsilon on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \zeta on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \eta on input line 43.
+LaTeX Font Info:    Redeclaring math symbol \theta on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \iota on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \kappa on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \lambda on input line 47.
+LaTeX Font Info:    Redeclaring math symbol \mu on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \nu on input line 49.
+LaTeX Font Info:    Redeclaring math symbol \xi on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \pi on input line 51.
+LaTeX Font Info:    Redeclaring math symbol \rho on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \sigma on input line 53.
+LaTeX Font Info:    Redeclaring math symbol \tau on input line 54.
+LaTeX Font Info:    Redeclaring math symbol \upsilon on input line 55.
+LaTeX Font Info:    Redeclaring math symbol \phi on input line 56.
+LaTeX Font Info:    Redeclaring math symbol \chi on input line 57.
+LaTeX Font Info:    Redeclaring math symbol \psi on input line 58.
+LaTeX Font Info:    Redeclaring math symbol \omega on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \varepsilon on input line 60.
+LaTeX Font Info:    Redeclaring math symbol \vartheta on input line 61.
+LaTeX Font Info:    Redeclaring math symbol \varpi on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \varrho on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \varsigma on input line 64.
+LaTeX Font Info:    Redeclaring math symbol \varphi on input line 65.
+LaTeX Info: Redefining \LaTeX on input line 129.
+LaTeX Info: Redefining \LaTeXe on input line 139.
+LaTeX Font Info:    Trying to load font information for OT1+cmbr on input line 
+144.
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/cmbright\ot1cmbr.fd
+File: ot1cmbr.fd 2005/04/13 v8.1 (WaS)
+))
+
+! LaTeX Error: Option clash for package color.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \RequirePackage
+                    {wallpaper}                           % Colocar imágene...
+
+The package color has already been loaded with options:
+  []
+There has now been an attempt to load it with options
+  [usenames,dvipsnames]
+Adding the global options:
+  ,usenames,dvipsnames
+to your \documentclass declaration may fix this.
+Try typing  <return>  to proceed.
+
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/wallpaper\wallpaper.sty
+Package: wallpaper 2005/01/18, v1.01 easy wallpaper formatting (MHFW)
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count283
+\calc@Bcount=\count284
+\calc@Adimen=\dimen151
+\calc@Bdimen=\dimen152
+\calc@Askip=\skip58
+\calc@Bskip=\skip59
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count285
+\calc@Cskip=\skip60
+)
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen153
+\ESO@tempdimb=\dimen154
+)
+\wpXoffset=\skip61
+\wpYoffset=\skip62
+\tileXoffset=\skip63
+\tileYoffset=\skip64
+\tilewidth=\skip65
+\tileheight=\skip66
+\tileX=\skip67
+\tileY=\skip68
+)
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip69
+\f@nch@offset@elh=\skip70
+\f@nch@offset@erh=\skip71
+\f@nch@offset@olh=\skip72
+\f@nch@offset@orh=\skip73
+\f@nch@offset@elf=\skip74
+\f@nch@offset@erf=\skip75
+\f@nch@offset@olf=\skip76
+\f@nch@offset@orf=\skip77
+\f@nch@height=\skip78
+\f@nch@footalignment=\skip79
+\f@nch@widthL=\skip80
+\f@nch@widthC=\skip81
+\f@nch@widthR=\skip82
+\@temptokenb=\toks24
+)
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count286
+\Gm@cntv=\count287
+\c@Gm@tempcnt=\count288
+\Gm@bindingoffset=\dimen155
+\Gm@wd@mp=\dimen156
+\Gm@odd@mp=\dimen157
+\Gm@even@mp=\dimen158
+\Gm@layoutwidth=\dimen159
+\Gm@layoutheight=\dimen160
+\Gm@layouthoffset=\dimen161
+\Gm@layoutvoffset=\dimen162
+\Gm@dimlist=\toks25
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/fncychap\fncychap.sty
+Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
+\RW=\skip83
+\mylen=\skip84
+\myhi=\skip85
+\px=\skip86
+\py=\skip87
+\pyy=\skip88
+\pxx=\skip89
+)
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/marvosym\marvosym.sty
+Package: marvosym 2011/07/20 v2.2 Martin Vogel's Symbols font definitions
+))
+
+! LaTeX Error: Option clash for package hyperref.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 \RequirePackage
+                   {amssymb}
+The package hyperref has already been loaded with options:
+  []
+There has now been an attempt to load it with options
+  [pdftex,bookmarks,colorlinks]
+Adding the global options:
+  ,pdftex,bookmarks,colorlinks
+to your \documentclass declaration may fix this.
+Try typing  <return>  to proceed.
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks26
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.st
+y
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip90
+\multirow@cntb=\count289
+\multirow@dima=\skip91
+\bigstrutjot=\dimen163
+))
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/chapterfolder\chapterfo
+lder.sty
+Package: chapterfolder 2005/11/24 v2.0 Package for dealing with folder
+\c@@cf@currentpos=\count290
+)
+
+! LaTeX Error: Option clash for package color.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 \RequirePackage
+                   {listings}
+The package color has already been loaded with options:
+  []
+There has now been an attempt to load it with options
+  [usenames,dvipsnames]
+Adding the global options:
+  ,usenames,dvipsnames
+to your \documentclass declaration may fix this.
+Try typing  <return>  to proceed.
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count291
+\lst@gtempboxa=\box58
+\lst@token=\toks27
+\lst@length=\count292
+\lst@currlwidth=\dimen164
+\lst@column=\count293
+\lst@pos=\count294
+\lst@lostspace=\dimen165
+\lst@width=\dimen166
+\lst@newlines=\count295
+\lst@lineno=\count296
+\lst@maxwidth=\dimen167
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count297
+\lst@skipnumbers=\count298
+\lst@framebox=\box59
+)
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
+))
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/keystroke\keystroke.sty
+Package: keystroke 2010/04/23 v1.6 3D keystrokes (SuSE GmbH/RN)
+\suse@key=\box60
+\keystroke@left=\box61
+\keystroke@right=\box62
+\keystroke@middle=\box63
+<keystroke_left.pdf, id=1, 42.1575pt x 195.73125pt>
+File: keystroke_left.pdf Graphic file (type pdf)
+<use keystroke_left.pdf>
+Package pdftex.def Info: keystroke_left.pdf  used on input line 171.
+(pdftex.def)             Requested size: 42.15738pt x 195.73076pt.
+<keystroke_middle.pdf, id=2, 116.435pt x 195.73125pt>
+File: keystroke_middle.pdf Graphic file (type pdf)
+<use keystroke_middle.pdf>
+Package pdftex.def Info: keystroke_middle.pdf  used on input line 172.
+(pdftex.def)             Requested size: 116.43471pt x 195.73076pt.
+<keystroke_right.pdf, id=3, 42.1575pt x 195.73125pt>
+File: keystroke_right.pdf Graphic file (type pdf)
+<use keystroke_right.pdf>
+Package pdftex.def Info: keystroke_right.pdf  used on input line 173.
+(pdftex.def)             Requested size: 42.15738pt x 195.73076pt.
+)
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+\pgfkeys@pathtoks=\toks28
+\pgfkeys@temptoks=\toks29
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+libraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks30
+))))
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\txfonts.sty
+Package: txfonts 2008/01/22 v3.2.1
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmbr/m/n --> OT1/txr/m/n on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmbr/m/n --> OT1/txr/m/n on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/txr/m/n --> OT1/txr/bx/n on input line 22.
+\symitalic=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `italic' in version `bold'
+(Font)                  OT1/txr/m/it --> OT1/txr/bx/it on input line 26.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmbr/bx/n --> OT1/txr/bx/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmbr/bx/n --> OT1/txr/bx/n on input line 29.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmbr/m/sl --> OT1/txr/m/it on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmbr/m/sl --> OT1/txr/m/it on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/txr/m/it --> OT1/txr/bx/it on input line 31.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/txss/m/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/txss/m/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/txss/m/n --> OT1/txss/b/n on input line 41.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtl/m/n --> OT1/txtt/m/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtl/m/n --> OT1/txtt/m/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/txtt/m/n --> OT1/txtt/b/n on input line 51.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmbrm/m/it --> OML/txmi/m/it on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmbrm/b/it --> OML/txmi/m/it on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/txmi/m/it --> OML/txmi/bx/it on input line 59.
+\symlettersA=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/txmia/m/it --> U/txmia/bx/it on input line 67.
+LaTeX Font Info:    Redeclaring math alphabet \mathfrak on input line 70.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmbrs/m/n --> OMS/txsy/m/n on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmbrs/m/n --> OMS/txsy/m/n on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/txsy/m/n --> OMS/txsy/bx/n on input line 78.
+LaTeX Font Info:    Redeclaring symbol font `AMSa' on input line 93.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `normal'
+(Font)                  U/msa/m/n --> U/txsya/m/n on input line 93.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
+(Font)                  U/msa/m/n --> U/txsya/m/n on input line 93.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
+(Font)                  U/txsya/m/n --> U/txsya/bx/n on input line 94.
+LaTeX Font Info:    Redeclaring symbol font `AMSb' on input line 102.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `normal'
+(Font)                  U/msb/m/n --> U/txsyb/m/n on input line 102.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `bold'
+(Font)                  U/msb/m/n --> U/txsyb/m/n on input line 102.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `bold'
+(Font)                  U/txsyb/m/n --> U/txsyb/bx/n on input line 103.
+\symsymbolsC=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/txsyc/m/n --> U/txsyc/bx/n on input line 113.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/txex/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/txex/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/txex/m/n --> OMX/txex/bx/n on input line 121.
+\symlargesymbolsA=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `largesymbolsA' in version `bold'
+(Font)                  U/txexa/m/n --> U/txexa/bx/n on input line 129.
+LaTeX Font Info:    Redeclaring math symbol \mathsterling on input line 164.
+LaTeX Info: Redefining \not on input line 1043.
+)
+LaTeX Font Info:    Trying to load font information for OT1+txss on input line 
+21.
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\ot1txss.fd
+File: ot1txss.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
+(Font)              scaled to size 9.49997pt on input line 21.
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count299
+\l__pdf_internal_box=\box64
+) (ejemplo.aux
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
+ (projectCharter.aux) (1introduccion.aux)
+(2ModeloDelAlcance.aux) (3ModeloDelNegocio.aux) (4ModeloDinamico.aux)
+(5ModeloDeInteraccion.aux))
+\openout1 = `ejemplo.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 21.
+LaTeX Font Info:    Trying to load font information for OML+txmi on input line 
+21.
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\omltxmi.fd
+File: omltxmi.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 21.
+LaTeX Font Info:    Trying to load font information for OMS+txsy on input line 
+21.
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\omstxsy.fd
+File: omstxsy.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 21.
+LaTeX Font Info:    Trying to load font information for OMX+txex on input line 
+21.
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\omxtxex.fd
+File: omxtxex.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 21.
+LaTeX Font Info:    Trying to load font information for U+txexa on input line 2
+1.
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\utxexa.fd
+File: utxexa.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count300
+\scratchdimen=\dimen168
+\scratchbox=\box65
+\nofMPsegments=\count301
+\nofMParguments=\count302
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count303
+\MPscratchDim=\dimen169
+\MPnumerator=\count304
+\makeMPintoPDFobject=\count305
+\everyMPtoPDFconversion=\toks32
+)
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package hyperref Info: Link coloring OFF on input line 21.
+ (ejemplo.out) (ejemplo.out)
+\@outlinefile=\write3
+\openout3 = `ejemplo.out'.
+
+LaTeX Info: Redefining \. on input line 21.
+LaTeX Info: Redefining \% on input line 21.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
+* v-part:(T,H,B)=(99.58464pt, 595.8007pt, 99.58464pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=500.484pt
+* \textheight=595.8007pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-47.65834pt
+* \headheight=56.9055pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=125.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@lstlisting=\count306
+LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
+(Font)              scaled to size 16.41594pt on input line 25.
+LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
+(Font)              scaled to size 23.63593pt on input line 25.
+LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
+(Font)              scaled to size 11.39996pt on input line 25.
+LaTeX Font Info:    Trying to load font information for OT1+txr on input line 2
+5.
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\ot1txr.fd
+File: ot1txr.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for U+txsya on input line 2
+5.
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\utxsya.fd
+File: utxsya.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for U+txsyb on input line 2
+5.
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\utxsyb.fd
+File: utxsyb.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for U+txmia on input line 2
+5.
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\utxmia.fd
+File: utxmia.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for U+txsyc on input line 2
+5.
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\utxsyc.fd
+File: utxsyc.fd 2000/12/15 v3.1
+)
+<theme/bannerAzul.png, id=170, 711.1368pt x 336.7782pt>
+File: theme/bannerAzul.png Graphic file (type png)
+<use theme/bannerAzul.png>
+Package pdftex.def Info: theme/bannerAzul.png  used on input line 25.
+(pdftex.def)             Requested size: 614.30019pt x 290.91858pt.
+
+[1
+
+
+{C:/Users/valer/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/vale
+r/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./theme/bannerAzu
+l.png>] [2
+
+]
+LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
+(Font)              scaled to size 13.67995pt on input line 29.
+ (ejemplo.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    Font shape `OT1/txss/b/n' will be
+(Font)              scaled to size 9.49997pt on input line 2.
+LaTeX Font Info:    Font shape `OT1/txss/m/sc' will be
+(Font)              scaled to size 9.49997pt on input line 31.
+ [1
+
+])
+\tf@toc=\write4
+\openout4 = `ejemplo.toc'.
+
+<theme/headerPar.png, id=230, 1204.5pt x 200.75pt>
+File: theme/headerPar.png Graphic file (type png)
+<use theme/headerPar.png>
+Package pdftex.def Info: theme/headerPar.png  used on input line 30.
+(pdftex.def)             Requested size: 210.00035pt x 35.0pt.
+LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
+(Font)              scaled to size 7.59998pt on input line 30.
+LaTeX Font Info:    Font shape `OT1/txss/m/sc' will be
+(Font)              scaled to size 7.59998pt on input line 30.
+LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
+(Font)              scaled to size 4.74998pt on input line 30.
+LaTeX Font Info:    Font shape `OT1/txss/m/it' in size <5> not available
+(Font)              Font shape `OT1/txss/m/sl' tried instead on input line 30.
+LaTeX Font Info:    Font shape `OT1/txss/m/sl' will be
+(Font)              scaled to size 4.74998pt on input line 30.
+LaTeX Font Info:    Trying to load font information for U+mvs on input line 30.
+
+
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/marvosym\umvs.fd)
+[2 <./theme/headerPar.png>] (ejemplo.lof
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@lof=\write5
+\openout5 = `ejemplo.lof'.
+
+ [3
+
+]
+File: theme/headerPar.png Graphic file (type png)
+<use theme/headerPar.png>
+Package pdftex.def Info: theme/headerPar.png  used on input line 31.
+(pdftex.def)             Requested size: 210.00035pt x 35.0pt.
+ [4
+
+] (ejemplo.lot
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@lot=\write6
+\openout6 = `ejemplo.lot'.
+
+ [5]
+\openout2 = `projectCharter.aux'.
+
+
+(projectCharter.tex
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 \usepackage
+               [utf8]{inputenc}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 \usepackage
+               {array}        % mejora tablas
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 \usepackage
+               {booktabs}     % para \toprule, \midrule, etc.
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 \usepackage
+                {multirow}     % permite celdas con varias filas
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \usepackage
+                {graphicx}     % para imágenes
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 \usepackage
+                {xcolor}       % colores (por si usas tablas coloreadas)
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: theme/headerPar.png Graphic file (type png)
+<use theme/headerPar.png>
+Package pdftex.def Info: theme/headerPar.png  used on input line 21.
+(pdftex.def)             Requested size: 210.00035pt x 35.0pt.
+[6
+
+]
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.25 ...th} |p{.22\textwidth} |p{.22\textwidth} |}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.25 ...th} |p{.22\textwidth} |p{.22\textwidth} |}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.25 ...th} |p{.22\textwidth} |p{.22\textwidth} |}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.25 ...th} |p{.22\textwidth} |p{.22\textwidth} |}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   &
+l.25 ...th} |p{.22\textwidth} |p{.22\textwidth} |}
+                                                  
+There should be exactly one # between &'s, when an
+\halign or \valign is being set up. In this case you had
+none, so I've put one in; maybe that will work.
+
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   &
+l.25 ...th} |p{.22\textwidth} |p{.22\textwidth} |}
+                                                  
+There should be exactly one # between &'s, when an
+\halign or \valign is being set up. In this case you had
+none, so I've put one in; maybe that will work.
+
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   &
+l.25 ...th} |p{.22\textwidth} |p{.22\textwidth} |}
+                                                  
+There should be exactly one # between &'s, when an
+\halign or \valign is being set up. In this case you had
+none, so I've put one in; maybe that will work.
+
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   \cr 
+l.25 ...th} |p{.22\textwidth} |p{.22\textwidth} |}
+                                                  
+There should be exactly one # between &'s, when an
+\halign or \valign is being set up. In this case you had
+none, so I've put one in; maybe that will work.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.27 ...MPchItem{Proyecto:}{CVE, Nombre proyecto.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.28 ...sa, Nombre del responsable, cargo, Firma.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.29 ...sa, Nombre del responsable, cargo, Firma.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.30 ... breve del contexto, no mas de 3 líneas.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.31 ...ales beneficios al término del proyecto.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.32 ...\$ 2,350,700.00 $\pm$ 13\% (por ejemplo.)}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.34 ...Objetivo:}{Objetivo general del proyecto.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.36 ...Clave-Nombre}{descripción del entregable}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.37 ...Clave-Nombre}{descripción del entregable}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.38 	\ESCOMPchSubItem{}{...}{}
+                               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.45 	}
+       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.51 	}
+       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.52 ...{Indicador clave de término del proyecto}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.53 ...gía:}{Metodología evolutiva-incremental}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.55 ...oject Manager:}{Nombre, Tel, correo, etc.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.56 ...Project owner:}{Nombre, Tel, correo, etc.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.57 	\ESCOMPchItem{...}{}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.63 	}
+       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.69 \label{key}	}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.75 	}
+       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.77 ...}{ reporta a (Nombre de la(s) persona(s))}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.78 ...}{ reporta a (Nombre de la(s) persona(s))}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.79 ...}{ reporta a (Nombre de la(s) persona(s))}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.80 	\ESCOMPchSubItem{...}{}{}
+                               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (370.19862pt too wide) in paragraph at lines 25--82
+[][] 
+ []
+
+)
+<theme/headerInp.png, id=283, 1204.5pt x 200.75pt>
+File: theme/headerInp.png Graphic file (type png)
+<use theme/headerInp.png>
+Package pdftex.def Info: theme/headerInp.png  used on input line 33.
+(pdftex.def)             Requested size: 210.00035pt x 35.0pt.
+ [7
+
+ <./theme/headerInp.png>]
+File: theme/headerPar.png Graphic file (type png)
+<use theme/headerPar.png>
+Package pdftex.def Info: theme/headerPar.png  used on input line 35.
+(pdftex.def)             Requested size: 210.00035pt x 35.0pt.
+ [8
+
+
+
+]
+\openout2 = `1introduccion.aux'.
+
+ (1introduccion.tex
+Cap\'{\i }tulo 1.
+LaTeX Font Info:    Font shape `OT1/txss/m/it' in size <10> not available
+(Font)              Font shape `OT1/txss/m/sl' tried instead on input line 7.
+LaTeX Font Info:    Font shape `OT1/txss/m/sl' will be
+(Font)              scaled to size 9.49997pt on input line 7.
+LaTeX Font Info:    Font shape `OT1/txss/b/n' will be
+(Font)              scaled to size 13.67995pt on input line 11.
+LaTeX Font Info:    Font shape `OT1/txss/m/it' in size <8> not available
+(Font)              Font shape `OT1/txss/m/sl' tried instead on input line 45.
+LaTeX Font Info:    Font shape `OT1/txss/m/sl' will be
+(Font)              scaled to size 7.59998pt on input line 45.
+)
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.41 \include{1introduccion}
+                            
+<theme/plecaAyD.png, id=296, 1085.0136pt x 155.6214pt>
+File: theme/plecaAyD.png Graphic file (type png)
+<use theme/plecaAyD.png>
+Package pdftex.def Info: theme/plecaAyD.png  used on input line 41.
+(pdftex.def)             Requested size: 614.29208pt x 88.1067pt.
+ [1
+
+
+ <./theme/plecaAyD.png>]
+File: theme/headerPar.png Graphic file (type png)
+<use theme/headerPar.png>
+Package pdftex.def Info: theme/headerPar.png  used on input line 41.
+(pdftex.def)             Requested size: 210.00035pt x 35.0pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.41 \include{1introduccion}
+                            
+File: theme/plecaAyD.png Graphic file (type png)
+<use theme/plecaAyD.png>
+Package pdftex.def Info: theme/plecaAyD.png  used on input line 41.
+(pdftex.def)             Requested size: 614.29208pt x 88.1067pt.
+ [2]
+\openout2 = `2ModeloDelAlcance.aux'.
+
+ (2ModeloDelAlcance.tex
+Cap\'{\i }tulo 2.
+LaTeX Font Info:    Font shape `OT1/txss/b/n' will be
+(Font)              scaled to size 11.39996pt on input line 14.
+<images/organigramaEm.png, id=304, 525.6438pt x 250.536pt>
+File: images/organigramaEm.png Graphic file (type png)
+<use images/organigramaEm.png>
+Package pdftex.def Info: images/organigramaEm.png  used on input line 20.
+(pdftex.def)             Requested size: 400.38872pt x 190.84131pt.
+<theme/uc/actorRule.png, id=305, 1401.0744pt x 130.086pt>
+File: theme/uc/actorRule.png Graphic file (type png)
+<use theme/uc/actorRule.png>
+Package pdftex.def Info: theme/uc/actorRule.png  used on input line 31.
+(pdftex.def)             Requested size: 500.484pt x 46.46767pt.
+LaTeX Font Info:    Trying to load font information for TS1+txss on input line 
+34.
+(C:\Users\valer\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\ts1txss.fd
+File: ts1txss.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Font shape `TS1/txss/m/n' will be
+(Font)              scaled to size 9.49997pt on input line 34.
+File: theme/plecaAyD.png Graphic file (type png)
+<use theme/plecaAyD.png>
+Package pdftex.def Info: theme/plecaAyD.png  used on input line 47.
+(pdftex.def)             Requested size: 614.29208pt x 88.1067pt.
+
+[3
+
+
+
+
+ <./theme/uc/actorRule.png>]
+File: theme/uc/actorRule.png Graphic file (type png)
+<use theme/uc/actorRule.png>
+Package pdftex.def Info: theme/uc/actorRule.png  used on input line 57.
+(pdftex.def)             Requested size: 500.484pt x 46.46767pt.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.84 		\FRitem
+              {RU1}{Control de vehículos}{El usuario requiere llevar un reg...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.84 		\FRitem
+              {RU1}{Control de vehículos}{El usuario requiere llevar un reg...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.84 		\FRitem
+              {RU1}{Control de vehículos}{El usuario requiere llevar un reg...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.84 		\FRitem
+              {RU1}{Control de vehículos}{El usuario requiere llevar un reg...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.84 		\FRitem
+              {RU1}{Control de vehículos}{El usuario requiere llevar un reg...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   &
+l.84 		\FRitem
+              {RU1}{Control de vehículos}{El usuario requiere llevar un reg...
+There should be exactly one # between &'s, when an
+\halign or \valign is being set up. In this case you had
+none, so I've put one in; maybe that will work.
+
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   &
+l.84 		\FRitem
+              {RU1}{Control de vehículos}{El usuario requiere llevar un reg...
+There should be exactly one # between &'s, when an
+\halign or \valign is being set up. In this case you had
+none, so I've put one in; maybe that will work.
+
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   &
+l.84 		\FRitem
+              {RU1}{Control de vehículos}{El usuario requiere llevar un reg...
+There should be exactly one # between &'s, when an
+\halign or \valign is being set up. In this case you had
+none, so I've put one in; maybe that will work.
+
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   &
+l.84 		\FRitem
+              {RU1}{Control de vehículos}{El usuario requiere llevar un reg...
+There should be exactly one # between &'s, when an
+\halign or \valign is being set up. In this case you had
+none, so I've put one in; maybe that will work.
+
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   \cr 
+l.84 		\FRitem
+              {RU1}{Control de vehículos}{El usuario requiere llevar un reg...
+There should be exactly one # between &'s, when an
+\halign or \valign is being set up. In this case you had
+none, so I've put one in; maybe that will work.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.84 		\FRitem
+              {RU1}{Control de vehículos}{El usuario requiere llevar un reg...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.84 		\FRitem
+              {RU1}{Control de vehículos}{El usuario requiere llevar un reg...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.84 		\FRitem
+              {RU1}{Control de vehículos}{El usuario requiere llevar un reg...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.84 		\FRitem
+              {RU1}{Control de vehículos}{El usuario requiere llevar un reg...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (758.0817pt too wide) in alignment at lines 84--84
+ [] [] [] [] [] 
+ []
+
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   &
+l.84 		\FRitem
+              {RU1}{Control de vehículos}{El usuario requiere llevar un reg...
+There should be exactly one # between &'s, when an
+\halign or \valign is being set up. In this case you had
+none, so I've put one in; maybe that will work.
+
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   &
+l.84 		\FRitem
+              {RU1}{Control de vehículos}{El usuario requiere llevar un reg...
+There should be exactly one # between &'s, when an
+\halign or \valign is being set up. In this case you had
+none, so I've put one in; maybe that will work.
+
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   &
+l.84 		\FRitem
+              {RU1}{Control de vehículos}{El usuario requiere llevar un reg...
+There should be exactly one # between &'s, when an
+\halign or \valign is being set up. In this case you had
+none, so I've put one in; maybe that will work.
+
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   &
+l.84 		\FRitem
+              {RU1}{Control de vehículos}{El usuario requiere llevar un reg...
+There should be exactly one # between &'s, when an
+\halign or \valign is being set up. In this case you had
+none, so I've put one in; maybe that will work.
+
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   \cr 
+l.84 		\FRitem
+              {RU1}{Control de vehículos}{El usuario requiere llevar un reg...
+There should be exactly one # between &'s, when an
+\halign or \valign is being set up. In this case you had
+none, so I've put one in; maybe that will work.
+
+
+! Package xcolor Error: Undefined color `Gray'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.84 ...s características y su estado.}{1}{\DONE}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.84 ...s características y su estado.}{1}{\DONE}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.84 ...s características y su estado.}{1}{\DONE}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! Package xcolor Error: Undefined color `Blue'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.85 ...edido, entregado, pagado, etc..}{2}{\TODO}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.85 ...edido, entregado, pagado, etc..}{2}{\TODO}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.85 ...edido, entregado, pagado, etc..}{2}{\TODO}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! Package xcolor Error: Undefined color `Gray'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.86 ... de promoción y mercadotecnia.}{1}{\DONE}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.86 ... de promoción y mercadotecnia.}{1}{\DONE}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.86 ... de promoción y mercadotecnia.}{1}{\DONE}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! Package xcolor Error: Undefined color `Green'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.87 ...que esta sea la más adecuada.}{-}{\DOING}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.87 ...que esta sea la más adecuada.}{-}{\DOING}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.87 ...que esta sea la más adecuada.}{-}{\DOING}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.88 		\FRitem{...}{...}{...}{...}{...}
+                                       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.88 		\FRitem{...}{...}{...}{...}{...}
+                                       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (758.0817pt too wide) in alignment at lines 84--89
+ [] [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
+
+ []
+
+
+Overfull \vbox (167.00694pt too high) has occurred while \output is active []
+
+File: theme/headerPar.png Graphic file (type png)
+<use theme/headerPar.png>
+Package pdftex.def Info: theme/headerPar.png  used on input line 111.
+(pdftex.def)             Requested size: 210.00035pt x 35.0pt.
+File: theme/plecaAyD.png Graphic file (type png)
+<use theme/plecaAyD.png>
+Package pdftex.def Info: theme/plecaAyD.png  used on input line 111.
+(pdftex.def)             Requested size: 614.29208pt x 88.1067pt.
+
+[4 <./images/organigramaEm.png>]
+<images/arquitectura.png, id=321, 699.5736pt x 609.9588pt>
+File: images/arquitectura.png Graphic file (type png)
+<use images/arquitectura.png>
+Package pdftex.def Info: images/arquitectura.png  used on input line 115.
+(pdftex.def)             Requested size: 300.29344pt x 261.82112pt.
+)
+File: theme/headerInp.png Graphic file (type png)
+<use theme/headerInp.png>
+Package pdftex.def Info: theme/headerInp.png  used on input line 44.
+(pdftex.def)             Requested size: 210.00035pt x 35.0pt.
+File: theme/plecaAyD.png Graphic file (type png)
+<use theme/plecaAyD.png>
+Package pdftex.def Info: theme/plecaAyD.png  used on input line 44.
+(pdftex.def)             Requested size: 614.29208pt x 88.1067pt.
+ [5 <./images/arquitectura.png>]
+\openout2 = `3ModeloDelNegocio.aux'.
+
+
+(3ModeloDelNegocio.tex
+File: theme/headerPar.png Graphic file (type png)
+<use theme/headerPar.png>
+Package pdftex.def Info: theme/headerPar.png  used on input line 2.
+(pdftex.def)             Requested size: 210.00035pt x 35.0pt.
+File: theme/plecaAyD.png Graphic file (type png)
+<use theme/plecaAyD.png>
+Package pdftex.def Info: theme/plecaAyD.png  used on input line 2.
+(pdftex.def)             Requested size: 614.29208pt x 88.1067pt.
+ [6
+
+
+
+
+]
+Cap\'{\i }tulo 3.
+File: theme/plecaAyD.png Graphic file (type png)
+<use theme/plecaAyD.png>
+Package pdftex.def Info: theme/plecaAyD.png  used on input line 34.
+(pdftex.def)             Requested size: 614.29208pt x 88.1067pt.
+[7]
+<images/modeloDelDominioDelProblema.png, id=355, 1762.4244pt x 1340.8494pt>
+File: images/modeloDelDominioDelProblema.png Graphic file (type png)
+<use images/modeloDelDominioDelProblema.png>
+Package pdftex.def Info: images/modeloDelDominioDelProblema.png  used on input 
+line 51.
+(pdftex.def)             Requested size: 1762.42012pt x 1340.84613pt.
+
+
+LaTeX Warning: Float too large for page by 63.71478pt on input line 55.
+
+<theme/uc/classRule.png, id=356, 1930.5726pt x 130.086pt>
+File: theme/uc/classRule.png Graphic file (type png)
+<use theme/uc/classRule.png>
+Package pdftex.def Info: theme/uc/classRule.png  used on input line 57.
+(pdftex.def)             Requested size: 500.484pt x 33.7223pt.
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.57 \begin{cdtEntidad}{Alumno}{Alumno}
+                                       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.57 \begin{cdtEntidad}{Alumno}{Alumno}
+                                       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.57 \begin{cdtEntidad}{Alumno}{Alumno}
+                                       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.57 \begin{cdtEntidad}{Alumno}{Alumno}
+                                       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   &
+l.57 \begin{cdtEntidad}{Alumno}{Alumno}
+                                       
+There should be exactly one # between &'s, when an
+\halign or \valign is being set up. In this case you had
+none, so I've put one in; maybe that will work.
+
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   &
+l.57 \begin{cdtEntidad}{Alumno}{Alumno}
+                                       
+There should be exactly one # between &'s, when an
+\halign or \valign is being set up. In this case you had
+none, so I've put one in; maybe that will work.
+
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   &
+l.57 \begin{cdtEntidad}{Alumno}{Alumno}
+                                       
+There should be exactly one # between &'s, when an
+\halign or \valign is being set up. In this case you had
+none, so I've put one in; maybe that will work.
+
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   \cr 
+l.57 \begin{cdtEntidad}{Alumno}{Alumno}
+                                       
+There should be exactly one # between &'s, when an
+\halign or \valign is being set up. In this case you had
+none, so I've put one in; maybe that will work.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.57 \begin{cdtEntidad}{Alumno}{Alumno}
+                                       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.57 \begin{cdtEntidad}{Alumno}{Alumno}
+                                       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.57 \begin{cdtEntidad}{Alumno}{Alumno}
+                                       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.57 \begin{cdtEntidad}{Alumno}{Alumno}
+                                       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.57 \begin{cdtEntidad}{Alumno}{Alumno}
+                                       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.57 \begin{cdtEntidad}{Alumno}{Alumno}
+                                       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (625.64764pt too wide) in alignment at lines 57--57
+ [] [] [] [] 
+ []
+
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   &
+l.57 \begin{cdtEntidad}{Alumno}{Alumno}
+                                       
+There should be exactly one # between &'s, when an
+\halign or \valign is being set up. In this case you had
+none, so I've put one in; maybe that will work.
+
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   &
+l.57 \begin{cdtEntidad}{Alumno}{Alumno}
+                                       
+There should be exactly one # between &'s, when an
+\halign or \valign is being set up. In this case you had
+none, so I've put one in; maybe that will work.
+
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   &
+l.57 \begin{cdtEntidad}{Alumno}{Alumno}
+                                       
+There should be exactly one # between &'s, when an
+\halign or \valign is being set up. In this case you had
+none, so I've put one in; maybe that will work.
+
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   \cr 
+l.57 \begin{cdtEntidad}{Alumno}{Alumno}
+                                       
+There should be exactly one # between &'s, when an
+\halign or \valign is being set up. In this case you had
+none, so I've put one in; maybe that will work.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.58 ...utilizado para identificar un alumno}{Sí}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.58 ...utilizado para identificar un alumno}{Sí}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.60 		{Nombre o nombres del alumno.}{Sí}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.60 		{Nombre o nombres del alumno.}{Sí}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.62 		{Primer apellido del alumno.}{Sí}
+                                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.62 		{Primer apellido del alumno.}{Sí}
+                                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.64 		{Segundo apellido del alumno.}{No}
+                                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.64 		{Segundo apellido del alumno.}{No}
+                                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.66 		{CURP del alumno.}{Sí}
+                              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.66 		{CURP del alumno.}{Sí}
+                              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.68 		{Fecha de nacimiento del alumno.}{Sí}
+                                             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.68 		{Fecha de nacimiento del alumno.}{Sí}
+                                             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.70 		{Género del alumno.}{No}
+                                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.70 		{Género del alumno.}{No}
+                                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.72 		{Teléfono para contactar al alumno.}{Sí}
+                                                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.72 		{Teléfono para contactar al alumno.}{Sí}
+                                                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.74 ...ra recuperación de clave de acceso.}{Sí}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.74 ...ra recuperación de clave de acceso.}{Sí}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.75 	\cdtEntityRelSection
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.75 	\cdtEntityRelSection
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.76 	\brRel
+            {\brRelComposition}{Domicilio}{Un \hyperlink{Alumno}{Alumno} res...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.76 	\brRel
+            {\brRelComposition}{Domicilio}{Un \hyperlink{Alumno}{Alumno} res...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.76 ...e en un \hyperlink{Domicilio}{Domicilio}}	
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.76 ...e en un \hyperlink{Domicilio}{Domicilio}}	
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.77 ...Alumno} toma un \hyperlink{Curso}{Curso}}	
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.77 ...Alumno} toma un \hyperlink{Curso}{Curso}}	
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (625.64764pt too wide) in alignment at lines 57--78
+ [] [] [] [] 
+ []
+
+File: theme/uc/classRule.png Graphic file (type png)
+<use theme/uc/classRule.png>
+Package pdftex.def Info: theme/uc/classRule.png  used on input line 81.
+(pdftex.def)             Requested size: 500.484pt x 33.7223pt.
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.81 ...idad}{AlumnoExtranjero}{Alumno Extranjero}
+                                                  %{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.81 ...idad}{AlumnoExtranjero}{Alumno Extranjero}
+                                                  %{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.81 ...idad}{AlumnoExtranjero}{Alumno Extranjero}
+                                                  %{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.81 ...idad}{AlumnoExtranjero}{Alumno Extranjero}
+                                                  %{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   &
+l.81 ...idad}{AlumnoExtranjero}{Alumno Extranjero}
+                                                  %{}
+There should be exactly one # between &'s, when an
+\halign or \valign is being set up. In this case you had
+none, so I've put one in; maybe that will work.
+
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   &
+l.81 ...idad}{AlumnoExtranjero}{Alumno Extranjero}
+                                                  %{}
+There should be exactly one # between &'s, when an
+\halign or \valign is being set up. In this case you had
+none, so I've put one in; maybe that will work.
+
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   &
+l.81 ...idad}{AlumnoExtranjero}{Alumno Extranjero}
+                                                  %{}
+There should be exactly one # between &'s, when an
+\halign or \valign is being set up. In this case you had
+none, so I've put one in; maybe that will work.
+
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   \cr 
+l.81 ...idad}{AlumnoExtranjero}{Alumno Extranjero}
+                                                  %{}
+There should be exactly one # between &'s, when an
+\halign or \valign is being set up. In this case you had
+none, so I've put one in; maybe that will work.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.81 ...idad}{AlumnoExtranjero}{Alumno Extranjero}
+                                                  %{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.81 ...idad}{AlumnoExtranjero}{Alumno Extranjero}
+                                                  %{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.81 ...idad}{AlumnoExtranjero}{Alumno Extranjero}
+                                                  %{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.81 ...idad}{AlumnoExtranjero}{Alumno Extranjero}
+                                                  %{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.81 ...idad}{AlumnoExtranjero}{Alumno Extranjero}
+                                                  %{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.81 ...idad}{AlumnoExtranjero}{Alumno Extranjero}
+                                                  %{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (537.26024pt too wide) in alignment at lines 81--81
+ [] [] [] [] 
+ []
+
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   &
+l.81 ...idad}{AlumnoExtranjero}{Alumno Extranjero}
+                                                  %{}
+There should be exactly one # between &'s, when an
+\halign or \valign is being set up. In this case you had
+none, so I've put one in; maybe that will work.
+
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   &
+l.81 ...idad}{AlumnoExtranjero}{Alumno Extranjero}
+                                                  %{}
+There should be exactly one # between &'s, when an
+\halign or \valign is being set up. In this case you had
+none, so I've put one in; maybe that will work.
+
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   &
+l.81 ...idad}{AlumnoExtranjero}{Alumno Extranjero}
+                                                  %{}
+There should be exactly one # between &'s, when an
+\halign or \valign is being set up. In this case you had
+none, so I've put one in; maybe that will work.
+
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   \cr 
+l.81 ...idad}{AlumnoExtranjero}{Alumno Extranjero}
+                                                  %{}
+There should be exactly one # between &'s, when an
+\halign or \valign is being set up. In this case you had
+none, so I've put one in; maybe that will work.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.82 ...aciones Exteriores a los extranjeros.}{Si}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.82 ...aciones Exteriores a los extranjeros.}{Si}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.84 ...ís de origen del alumno extranjero.}{Sí}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.84 ...ís de origen del alumno extranjero.}{Sí}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.85 	\cdtEntityRelSection
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.85 	\cdtEntityRelSection
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.86 	\brRel
+            {\brRelAgregation}{País}{Un \hyperlink{Alumno}{Alumno} es origi...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.86 	\brRel
+            {\brRelAgregation}{País}{Un \hyperlink{Alumno}{Alumno} es origi...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.86 ... originario de un \hyperlink{Pais}{Pais}}	
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.86 ... originario de un \hyperlink{Pais}{Pais}}	
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.87 ...njero} es un  \hyperlink{Alumno}{Alumno}}	
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.87 ...njero} es un  \hyperlink{Alumno}{Alumno}}	
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (537.26024pt too wide) in alignment at lines 81--88
+ [] [] [] [] 
+ []
+
+(3-1-reglas.tex
+File: theme/headerPar.png Graphic file (type png)
+<use theme/headerPar.png>
+Package pdftex.def Info: theme/headerPar.png  used on input line 2.
+(pdftex.def)             Requested size: 210.00035pt x 35.0pt.
+File: theme/plecaAyD.png Graphic file (type png)
+<use theme/plecaAyD.png>
+Package pdftex.def Info: theme/plecaAyD.png  used on input line 2.
+(pdftex.def)             Requested size: 614.29208pt x 88.1067pt.
+ [8 <./theme/uc/classRule.png>]
+File: theme/headerInp.png Graphic file (type png)
+<use theme/headerInp.png>
+Package pdftex.def Info: theme/headerInp.png  used on input line 2.
+(pdftex.def)             Requested size: 210.00035pt x 35.0pt.
+File: theme/plecaAyD.png Graphic file (type png)
+<use theme/plecaAyD.png>
+Package pdftex.def Info: theme/plecaAyD.png  used on input line 2.
+(pdftex.def)             Requested size: 614.29208pt x 88.1067pt.
+ [9 <./images/modeloDelDominioDelProblema.png>]
+File: theme/headerPar.png Graphic file (type png)
+<use theme/headerPar.png>
+Package pdftex.def Info: theme/headerPar.png  used on input line 77.
+(pdftex.def)             Requested size: 210.00035pt x 35.0pt.
+File: theme/plecaAyD.png Graphic file (type png)
+<use theme/plecaAyD.png>
+Package pdftex.def Info: theme/plecaAyD.png  used on input line 77.
+(pdftex.def)             Requested size: 614.29208pt x 88.1067pt.
+ [10]
+File: theme/headerInp.png Graphic file (type png)
+<use theme/headerInp.png>
+Package pdftex.def Info: theme/headerInp.png  used on input line 153.
+(pdftex.def)             Requested size: 210.00035pt x 35.0pt.
+File: theme/plecaAyD.png Graphic file (type png)
+<use theme/plecaAyD.png>
+Package pdftex.def Info: theme/plecaAyD.png  used on input line 153.
+(pdftex.def)             Requested size: 614.29208pt x 88.1067pt.
+ [11]) (proc/proc01.tex
+<images/proceso1.png, id=423, 1072.005pt x 760.8425pt>
+File: images/proceso1.png Graphic file (type png)
+<use images/proceso1.png>
+Package pdftex.def Info: images/proceso1.png  used on input line 6.
+(pdftex.def)             Requested size: 350.33727pt x 248.6408pt.
+File: theme/headerPar.png Graphic file (type png)
+<use theme/headerPar.png>
+Package pdftex.def Info: theme/headerPar.png  used on input line 18.
+(pdftex.def)             Requested size: 210.00035pt x 35.0pt.
+File: theme/plecaAyD.png Graphic file (type png)
+<use theme/plecaAyD.png>
+Package pdftex.def Info: theme/plecaAyD.png  used on input line 18.
+(pdftex.def)             Requested size: 614.29208pt x 88.1067pt.
+ [12 <./images/proceso1.png>])
+(proc/proc02.tex
+<images/proceso2.png, id=429, 1044.90375pt x 277.035pt>
+File: images/proceso2.png Graphic file (type png)
+<use images/proceso2.png>
+Package pdftex.def Info: images/proceso2.png  used on input line 6.
+(pdftex.def)             Requested size: 400.38872pt x 106.15364pt.
+)
+<images/mapaProc.png, id=431, 825.83531pt x 546.54187pt>
+File: images/mapaProc.png Graphic file (type png)
+<use images/mapaProc.png>
+Package pdftex.def Info: images/mapaProc.png  used on input line 112.
+(pdftex.def)             Requested size: 400.38872pt x 264.98074pt.
+ (proc/proc-m01.tex
+<images/proceso3.png, id=432, 993.7125pt x 447.6725pt>
+File: images/proceso3.png Graphic file (type png)
+<use images/proceso3.png>
+Package pdftex.def Info: images/proceso3.png  used on input line 6.
+(pdftex.def)             Requested size: 350.33727pt x 157.82848pt.
+File: theme/headerInp.png Graphic file (type png)
+<use theme/headerInp.png>
+Package pdftex.def Info: theme/headerInp.png  used on input line 16.
+(pdftex.def)             Requested size: 210.00035pt x 35.0pt.
+File: theme/plecaAyD.png Graphic file (type png)
+<use theme/plecaAyD.png>
+Package pdftex.def Info: theme/plecaAyD.png  used on input line 16.
+(pdftex.def)             Requested size: 614.29208pt x 88.1067pt.
+ [13 <./images/proceso2.png>]
+File: theme/headerPar.png Graphic file (type png)
+<use theme/headerPar.png>
+Package pdftex.def Info: theme/headerPar.png  used on input line 16.
+(pdftex.def)             Requested size: 210.00035pt x 35.0pt.
+File: theme/plecaAyD.png Graphic file (type png)
+<use theme/plecaAyD.png>
+Package pdftex.def Info: theme/plecaAyD.png  used on input line 16.
+(pdftex.def)             Requested size: 614.29208pt x 88.1067pt.
+ [14 <./images/mapaProc.png> <./images/proceso3.png>]))
+File: theme/headerInp.png Graphic file (type png)
+<use theme/headerInp.png>
+Package pdftex.def Info: theme/headerInp.png  used on input line 47.
+(pdftex.def)             Requested size: 210.00035pt x 35.0pt.
+File: theme/plecaAyD.png Graphic file (type png)
+<use theme/plecaAyD.png>
+Package pdftex.def Info: theme/plecaAyD.png  used on input line 47.
+(pdftex.def)             Requested size: 614.29208pt x 88.1067pt.
+ [15]
+\openout2 = `4ModeloDinamico.aux'.
+
+ (4ModeloDinamico.tex
+File: theme/headerPar.png Graphic file (type png)
+<use theme/headerPar.png>
+Package pdftex.def Info: theme/headerPar.png  used on input line 2.
+(pdftex.def)             Requested size: 210.00035pt x 35.0pt.
+File: theme/plecaAyD.png Graphic file (type png)
+<use theme/plecaAyD.png>
+Package pdftex.def Info: theme/plecaAyD.png  used on input line 2.
+(pdftex.def)             Requested size: 614.29208pt x 88.1067pt.
+ [16
+
+
+
+
+]
+Cap\'{\i }tulo 4.
+<images/casosDeUso.png, id=461, 726.5544pt x 370.0224pt>
+File: images/casosDeUso.png Graphic file (type png)
+<use images/casosDeUso.png>
+Package pdftex.def Info: images/casosDeUso.png  used on input line 9.
+(pdftex.def)             Requested size: 400.38872pt x 203.9138pt.
+<images/casosDeUsoDetalle.png, id=462, 1653.0558pt x 995.3988pt>
+File: images/casosDeUsoDetalle.png Graphic file (type png)
+<use images/casosDeUsoDetalle.png>
+Package pdftex.def Info: images/casosDeUsoDetalle.png  used on input line 17.
+(pdftex.def)             Requested size: 1653.05179pt x 995.39638pt.
+
+LaTeX Warning: Float too large for page by 20.5961pt on input line 21.
+
+File: theme/uc/actorRule.png Graphic file (type png)
+<use theme/uc/actorRule.png>
+Package pdftex.def Info: theme/uc/actorRule.png  used on input line 29.
+(pdftex.def)             Requested size: 500.484pt x 46.46767pt.
+File: theme/plecaAyD.png Graphic file (type png)
+<use theme/plecaAyD.png>
+Package pdftex.def Info: theme/plecaAyD.png  used on input line 29.
+(pdftex.def)             Requested size: 614.29208pt x 88.1067pt.
+[17 <./images/casosDeUso.png>]
+File: theme/headerPar.png Graphic file (type png)
+<use theme/headerPar.png>
+Package pdftex.def Info: theme/headerPar.png  used on input line 29.
+(pdftex.def)             Requested size: 210.00035pt x 35.0pt.
+File: theme/plecaAyD.png Graphic file (type png)
+<use theme/plecaAyD.png>
+Package pdftex.def Info: theme/plecaAyD.png  used on input line 29.
+(pdftex.def)             Requested size: 614.29208pt x 88.1067pt.
+ [18 <./images/casosDeUsoDetalle.png>]
+(cu/cu17.tex
+File: theme/headerInp.png Graphic file (type png)
+<use theme/headerInp.png>
+Package pdftex.def Info: theme/headerInp.png  used on input line 17.
+(pdftex.def)             Requested size: 210.00035pt x 35.0pt.
+File: theme/plecaAyD.png Graphic file (type png)
+<use theme/plecaAyD.png>
+Package pdftex.def Info: theme/plecaAyD.png  used on input line 17.
+(pdftex.def)             Requested size: 614.29208pt x 88.1067pt.
+ [19]
+<theme/uc/default.png, id=478, 926.46124pt x 57.21375pt>
+File: theme/uc/default.png Graphic file (type png)
+<use theme/uc/default.png>
+Package pdftex.def Info: theme/uc/default.png  used on input line 17.
+(pdftex.def)             Requested size: 550.53545pt x 33.9985pt.
+
+Overfull \hbox (50.05145pt too wide) in paragraph at lines 17--17
+[][] 
+ []
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.17 	}
+       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.17 	}
+       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   &
+l.17 	}
+       
+There should be exactly one # between &'s, when an
+\halign or \valign is being set up. In this case you had
+none, so I've put one in; maybe that will work.
+
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   \cr 
+l.17 	}
+       
+There should be exactly one # between &'s, when an
+\halign or \valign is being set up. In this case you had
+none, so I've put one in; maybe that will work.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.17 	}
+       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.17 	}
+       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (685.52467pt too wide) in alignment at lines 17--17
+ [] [] 
+ []
+
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   &
+l.17 	}
+       
+There should be exactly one # between &'s, when an
+\halign or \valign is being set up. In this case you had
+none, so I've put one in; maybe that will work.
+
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   \cr 
+l.17 	}
+       
+There should be exactly one # between &'s, when an
+\halign or \valign is being set up. In this case you had
+none, so I've put one in; maybe that will work.
+
+
+! Package xcolor Error: Undefined color `Gray'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 		\UCitem{Versión}{\color{Gray}0.1}
+                                         
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.18 		\UCitem{Versión}{\color{Gray}0.1}
+                                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.18 		\UCitem{Versión}{\color{Gray}0.1}
+                                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! Package xcolor Error: Undefined color `Gray'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 ...m{Autor}{\color{Gray}David Ortega Pacheco}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.19 ...m{Autor}{\color{Gray}David Ortega Pacheco}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.19 ...m{Autor}{\color{Gray}David Ortega Pacheco}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! Package xcolor Error: Undefined color `Gray'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 ...visa}{\color{Gray}Ulises Vélez Saldaña.}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.20 ...visa}{\color{Gray}Ulises Vélez Saldaña.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.20 ...visa}{\color{Gray}Ulises Vélez Saldaña.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.21 		\UCitem{Actor}{\hyperlink{Alumno}{Alumno}}
+                                                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.21 		\UCitem{Actor}{\hyperlink{Alumno}{Alumno}}
+                                                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.22 ... inscribir a un seminario de titulación.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.22 ... inscribir a un seminario de titulación.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.23 ...�mero de boleta, Contraseña y Seminario.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.23 ...�mero de boleta, Contraseña y Seminario.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.24 		\UCitem{Origen}{Teclado}
+                               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.24 		\UCitem{Origen}{Teclado}
+                               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.25 ...bo de pago y comprobante de inscripción.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.25 ...bo de pago y comprobante de inscripción.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.26 ...ibo de pago y comprobante de inscripción}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.26 ...ibo de pago y comprobante de inscripción}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.27 ... debe estar registrado en la universidad.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.27 ... debe estar registrado en la universidad.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.28 ... y hay cupo en el Seminario en cuestión.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.28 ... y hay cupo en el Seminario en cuestión.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.29 		\UCitem{Errores}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.29 		\UCitem{Errores}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.30 		\UCitem{Tipo}{Caso de uso primario}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.30 		\UCitem{Tipo}{Caso de uso primario}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.31 		\UCitem{Observaciones}{}
+                               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.31 		\UCitem{Observaciones}{}
+                               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (685.52467pt too wide) in alignment at lines 17--32
+ [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+
+ []
+
+<theme/uc/actor.png, id=480, 96.36pt x 74.2775pt>
+File: theme/uc/actor.png Graphic file (type png)
+<use theme/uc/actor.png>
+Package pdftex.def Info: theme/uc/actor.png  used on input line 35.
+(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
+<theme/uc/iu.png, id=481, 61.22874pt x 55.20625pt>
+File: theme/uc/iu.png Graphic file (type png)
+<use theme/uc/iu.png>
+Package pdftex.def Info: theme/uc/iu.png  used on input line 35.
+(pdftex.def)             Requested size: 11.09076pt x 10.0pt.
+File: theme/uc/actor.png Graphic file (type png)
+<use theme/uc/actor.png>
+Package pdftex.def Info: theme/uc/actor.png  used on input line 36.
+(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
+<theme/uc/usecase.png, id=483, 91.34125pt x 61.22874pt>
+File: theme/uc/usecase.png Graphic file (type png)
+<use theme/uc/usecase.png>
+Package pdftex.def Info: theme/uc/usecase.png  used on input line 37.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: theme/uc/usecase.png Graphic file (type png)
+<use theme/uc/usecase.png>
+Package pdftex.def Info: theme/uc/usecase.png  used on input line 38.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: theme/uc/iu.png Graphic file (type png)
+<use theme/uc/iu.png>
+Package pdftex.def Info: theme/uc/iu.png  used on input line 38.
+(pdftex.def)             Requested size: 11.09076pt x 10.0pt.
+File: theme/uc/actor.png Graphic file (type png)
+<use theme/uc/actor.png>
+Package pdftex.def Info: theme/uc/actor.png  used on input line 39.
+(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
+File: theme/uc/usecase.png Graphic file (type png)
+<use theme/uc/usecase.png>
+Package pdftex.def Info: theme/uc/usecase.png  used on input line 40.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: theme/uc/usecase.png Graphic file (type png)
+<use theme/uc/usecase.png>
+Package pdftex.def Info: theme/uc/usecase.png  used on input line 41.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: theme/uc/usecase.png Graphic file (type png)
+<use theme/uc/usecase.png>
+Package pdftex.def Info: theme/uc/usecase.png  used on input line 42.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: theme/headerPar.png Graphic file (type png)
+<use theme/headerPar.png>
+Package pdftex.def Info: theme/headerPar.png  used on input line 43.
+(pdftex.def)             Requested size: 210.00035pt x 35.0pt.
+File: theme/plecaAyD.png Graphic file (type png)
+<use theme/plecaAyD.png>
+Package pdftex.def Info: theme/plecaAyD.png  used on input line 43.
+(pdftex.def)             Requested size: 614.29208pt x 88.1067pt.
+[20 <./theme/uc/default.png> <./theme/uc/actor.png> <./theme/uc/iu.png> <C:/Use
+rs/valer/AppData/Local/Programs/MiKTeX/tex/latex/keystroke/keystroke_left.pdf> 
+<C:/Users/valer/AppData/Local/Programs/MiKTeX/tex/latex/keystroke/keystroke_mid
+dle.pdf> <C:/Users/valer/AppData/Local/Programs/MiKTeX/tex/latex/keystroke/keys
+troke_right.pdf> <./theme/uc/usecase.png>]
+File: theme/uc/usecase.png Graphic file (type png)
+<use theme/uc/usecase.png>
+Package pdftex.def Info: theme/uc/usecase.png  used on input line 43.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: theme/uc/iu.png Graphic file (type png)
+<use theme/uc/iu.png>
+Package pdftex.def Info: theme/uc/iu.png  used on input line 43.
+(pdftex.def)             Requested size: 11.09076pt x 10.0pt.
+File: theme/uc/usecase.png Graphic file (type png)
+<use theme/uc/usecase.png>
+Package pdftex.def Info: theme/uc/usecase.png  used on input line 44.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: theme/uc/actor.png Graphic file (type png)
+<use theme/uc/actor.png>
+Package pdftex.def Info: theme/uc/actor.png  used on input line 45.
+(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
+File: theme/uc/usecase.png Graphic file (type png)
+<use theme/uc/usecase.png>
+Package pdftex.def Info: theme/uc/usecase.png  used on input line 46.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: theme/uc/usecase.png Graphic file (type png)
+<use theme/uc/usecase.png>
+Package pdftex.def Info: theme/uc/usecase.png  used on input line 47.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: theme/uc/iu.png Graphic file (type png)
+<use theme/uc/iu.png>
+Package pdftex.def Info: theme/uc/iu.png  used on input line 47.
+(pdftex.def)             Requested size: 11.09076pt x 10.0pt.
+File: theme/uc/usecase.png Graphic file (type png)
+<use theme/uc/usecase.png>
+Package pdftex.def Info: theme/uc/usecase.png  used on input line 48.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: theme/uc/usecase.png Graphic file (type png)
+<use theme/uc/usecase.png>
+Package pdftex.def Info: theme/uc/usecase.png  used on input line 49.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: theme/uc/actor.png Graphic file (type png)
+<use theme/uc/actor.png>
+Package pdftex.def Info: theme/uc/actor.png  used on input line 50.
+(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
+File: theme/uc/usecase.png Graphic file (type png)
+<use theme/uc/usecase.png>
+Package pdftex.def Info: theme/uc/usecase.png  used on input line 51.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: theme/uc/iu.png Graphic file (type png)
+<use theme/uc/iu.png>
+Package pdftex.def Info: theme/uc/iu.png  used on input line 51.
+(pdftex.def)             Requested size: 11.09076pt x 10.0pt.
+LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
+(Font)              scaled to size 8.54997pt on input line 55.
+LaTeX Font Info:    Font shape `OT1/txss/b/n' will be
+(Font)              scaled to size 8.54997pt on input line 55.
+File: theme/uc/usecase.png Graphic file (type png)
+<use theme/uc/usecase.png>
+Package pdftex.def Info: theme/uc/usecase.png  used on input line 56.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: theme/uc/actor.png Graphic file (type png)
+<use theme/uc/actor.png>
+Package pdftex.def Info: theme/uc/actor.png  used on input line 57.
+(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
+File: theme/uc/usecase.png Graphic file (type png)
+<use theme/uc/usecase.png>
+Package pdftex.def Info: theme/uc/usecase.png  used on input line 63.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: theme/uc/actor.png Graphic file (type png)
+<use theme/uc/actor.png>
+Package pdftex.def Info: theme/uc/actor.png  used on input line 64.
+(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
+File: theme/uc/usecase.png Graphic file (type png)
+<use theme/uc/usecase.png>
+Package pdftex.def Info: theme/uc/usecase.png  used on input line 65.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: theme/uc/usecase.png Graphic file (type png)
+<use theme/uc/usecase.png>
+Package pdftex.def Info: theme/uc/usecase.png  used on input line 66.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: theme/uc/usecase.png Graphic file (type png)
+<use theme/uc/usecase.png>
+Package pdftex.def Info: theme/uc/usecase.png  used on input line 71.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: theme/uc/usecase.png Graphic file (type png)
+<use theme/uc/usecase.png>
+Package pdftex.def Info: theme/uc/usecase.png  used on input line 72.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: theme/uc/usecase.png Graphic file (type png)
+<use theme/uc/usecase.png>
+Package pdftex.def Info: theme/uc/usecase.png  used on input line 73.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: theme/uc/usecase.png Graphic file (type png)
+<use theme/uc/usecase.png>
+Package pdftex.def Info: theme/uc/usecase.png  used on input line 78.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: theme/uc/usecase.png Graphic file (type png)
+<use theme/uc/usecase.png>
+Package pdftex.def Info: theme/uc/usecase.png  used on input line 79.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: theme/headerInp.png Graphic file (type png)
+<use theme/headerInp.png>
+Package pdftex.def Info: theme/headerInp.png  used on input line 84.
+(pdftex.def)             Requested size: 210.00035pt x 35.0pt.
+File: theme/plecaAyD.png Graphic file (type png)
+<use theme/plecaAyD.png>
+Package pdftex.def Info: theme/plecaAyD.png  used on input line 84.
+(pdftex.def)             Requested size: 614.29208pt x 88.1067pt.
+ [21]))
+File: theme/headerPar.png Graphic file (type png)
+<use theme/headerPar.png>
+Package pdftex.def Info: theme/headerPar.png  used on input line 50.
+(pdftex.def)             Requested size: 210.00035pt x 35.0pt.
+File: theme/plecaAyD.png Graphic file (type png)
+<use theme/plecaAyD.png>
+Package pdftex.def Info: theme/plecaAyD.png  used on input line 50.
+(pdftex.def)             Requested size: 614.29208pt x 88.1067pt.
+ [22]
+\openout2 = `5ModeloDeInteraccion.aux'.
+
+
+(5ModeloDeInteraccion.tex
+Cap\'{\i }tulo 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+<images/mapa.jpg, id=561, 640.3925pt x 480.79625pt>
+File: images/mapa.jpg Graphic file (type jpg)
+<use images/mapa.jpg>
+Package pdftex.def Info: images/mapa.jpg  used on input line 13.
+(pdftex.def)             Requested size: 350.33727pt x 263.03017pt.
+(iu/iu23.tex
+File: theme/uc/iu.png Graphic file (type png)
+<use theme/uc/iu.png>
+Package pdftex.def Info: theme/uc/iu.png  used on input line 8.
+(pdftex.def)             Requested size: 11.09076pt x 10.0pt.
+<images/Login.png, id=564, 354.32375pt x 252.945pt>
+File: images/Login.png Graphic file (type png)
+<use images/Login.png>
+Package pdftex.def Info: images/Login.png  used on input line 10.
+(pdftex.def)             Requested size: 250.24199pt x 178.64659pt.
+File: theme/uc/iu.png Graphic file (type png)
+<use theme/uc/iu.png>
+Package pdftex.def Info: theme/uc/iu.png  used on input line 21.
+(pdftex.def)             Requested size: 11.09076pt x 10.0pt.
+File: theme/plecaAyD.png Graphic file (type png)
+<use theme/plecaAyD.png>
+Package pdftex.def Info: theme/plecaAyD.png  used on input line 22.
+(pdftex.def)             Requested size: 614.29208pt x 88.1067pt.
+ [23
+
+
+
+
+]
+File: theme/uc/iu.png Graphic file (type png)
+<use theme/uc/iu.png>
+Package pdftex.def Info: theme/uc/iu.png  used on input line 22.
+(pdftex.def)             Requested size: 11.09076pt x 10.0pt.
+File: theme/headerPar.png Graphic file (type png)
+<use theme/headerPar.png>
+Package pdftex.def Info: theme/headerPar.png  used on input line 23.
+(pdftex.def)             Requested size: 210.00035pt x 35.0pt.
+File: theme/plecaAyD.png Graphic file (type png)
+<use theme/plecaAyD.png>
+Package pdftex.def Info: theme/plecaAyD.png  used on input line 23.
+(pdftex.def)             Requested size: 614.29208pt x 88.1067pt.
+ [24 <./images/mapa.jpg> <./images/Login.png>]))
+File: theme/headerInp.png Graphic file (type png)
+<use theme/headerInp.png>
+Package pdftex.def Info: theme/headerInp.png  used on input line 53.
+(pdftex.def)             Requested size: 210.00035pt x 35.0pt.
+File: theme/plecaAyD.png Graphic file (type png)
+<use theme/plecaAyD.png>
+Package pdftex.def Info: theme/plecaAyD.png  used on input line 53.
+(pdftex.def)             Requested size: 614.29208pt x 88.1067pt.
+ [25]
+(ejemplo.aux
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
+ (projectCharter.aux) (1introduccion.aux) (2ModeloDelAlcance.aux)
+(3ModeloDelNegocio.aux) (4ModeloDinamico.aux) (5ModeloDeInteraccion.aux))
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+Package rerunfilecheck Info: File `ejemplo.out' has not changed.
+(rerunfilecheck)             Checksum: D5E083D73B766FB15C75890D260F7B74;6717.
+ ) 
+Here is how much of TeX's memory you used:
+ 16501 strings out of 474486
+ 267833 string characters out of 5743756
+ 1962542 words of memory out of 5000000
+ 38258 multiletter control sequences out of 15000+600000
+ 616100 words of font info for 155 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 98i,16n,96p,477b,742s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{IU50} has been referenced but does not exist, repla
+ced by a fixed one
+
+
+pdfTeX warning (dest): name{UI32} has been referenced but does not exist, repla
+ced by a fixed one
+
+
+pdfTeX warning (dest): name{IU189} has been referenced but does not exist, repl
+aced by a fixed one
+
+
+pdfTeX warning (dest): name{UI88} has been referenced but does not exist, repla
+ced by a fixed one
+
+
+pdfTeX warning (dest): name{IU33} has been referenced but does not exist, repla
+ced by a fixed one
+
+
+pdfTeX warning (dest): name{IU32} has been referenced but does not exist, repla
+ced by a fixed one
+
+
+pdfTeX warning (dest): name{CU\0404.3} has been referenced but does not exist, 
+replaced by a fixed one
+
+
+pdfTeX warning (dest): name{CU3.4} has been referenced but does not exist, repl
+aced by a fixed one
+
+
+pdfTeX warning (dest): name{BR05} has been referenced but does not exist, repla
+ced by a fixed one
+
+
+pdfTeX warning (dest): name{CUCE3.3} has been referenced but does not exist, re
+placed by a fixed one
+
+
+pdfTeX warning (dest): name{CUCE3.2} has been referenced but does not exist, re
+placed by a fixed one
+
+
+pdfTeX warning (dest): name{Pais} has been referenced but does not exist, repla
+ced by a fixed one
+
+
+pdfTeX warning (dest): name{Curso} has been referenced but does not exist, repl
+aced by a fixed one
+
+
+pdfTeX warning (dest): name{Domicilio} has been referenced but does not exist, 
+replaced by a fixed one
+
+<C:/Users/valer/AppData/Local/Programs/MiKTeX/fonts/type1/public/marvosym/marvo
+sym.pfb><C:/Users/valer/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfont
+s/rtcxss.pfb><C:/Users/valer/AppData/Local/Programs/MiKTeX/fonts/type1/public/t
+xfonts/rtxmi.pfb><C:/Users/valer/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/txfonts/rtxr.pfb><C:/Users/valer/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/txfonts/rtxsssc.pfb><C:/Users/valer/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/txfonts/txex.pfb><C:/Users/valer/AppData/Local/Programs/MiKTeX/font
+s/type1/public/txfonts/txsy.pfb><C:/Users/valer/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/txfonts/txsya.pfb><C:/Users/valer/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/txfonts/txsyb.pfb><C:/Users/valer/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/txfonts/txsyc.pfb><C:/Users/valer/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/valer/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/valer/AppData/Local
+/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/valer/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/valer/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on ejemplo.pdf (35 pages, 5292524 bytes).
+PDF statistics:
+ 680 PDF objects out of 1000 (max. 8388607)
+ 167 named destinations out of 1000 (max. 500000)
+ 449 words of extra memory for PDF output out of 10000 (max. 10000000)
+

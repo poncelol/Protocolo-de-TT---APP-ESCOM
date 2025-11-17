@@ -1,0 +1,42 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{\numberline {1}Introducción}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Presentación}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Organización del contenido}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Notación, símbolos y convenciones utilizadas}{1}{section.1.3}%
+\contentsline {chapter}{\numberline {2}Modelo del Alcance}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Modelado de Usuarios}{3}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Organigrama de la Empresa}{3}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Gerente de Ventas}{3}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Agente de Ventas}{4}{subsection.2.1.3}%
+\contentsline {section}{\numberline {2.2}Requerimientos de usuario}{4}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Especificación de plataforma}{5}{section.2.3}%
+\contentsline {chapter}{\numberline {3}Modelo del Negocio}{7}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Contexto}{7}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Términos del Negocio}{7}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Modelo del dominio del problema}{8}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Modelo del dominio del problema}{8}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Entidad: Alumno}{8}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Entidad: Alumno Extranjero}{8}{subsection.3.3.3}%
+\contentsline {section}{\numberline {3.4}Modelado de Reglas de negocio}{10}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Modelo de Procesos AS-IS}{12}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}PROC-01 Análisis de requerimientos}{12}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}PROC-02 ...}{13}{subsection.3.5.2}%
+\contentsline {section}{\numberline {3.6}Modelo de procesos TO-BE}{13}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}PROCM-01 ...}{15}{subsection.3.6.1}%
+\contentsline {chapter}{\numberline {4}Modelo dinámico}{17}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Descripción de actores}{17}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Gerente de Operaciones}{19}{subsection.4.1.1}%
+\contentsline {section}{\numberline {4.2}CU17 Inscribir a Seminario}{20}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Descripción completa}{20}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Atributos importantes}{20}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Trayectorias del Caso de Uso}{20}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Puntos de extensión}{22}{subsection.4.2.4}%
+\contentsline {chapter}{\numberline {5}Modelo de la interacción}{23}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Modelo de navegación}{23}{section.5.1}%
+\contentsline {section}{\numberline {5.2}IU23 Pantalla de Control de Acceso}{23}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Objetivo}{23}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Diseño}{23}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Salidas}{23}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}Entradas}{23}{subsection.5.2.4}%
+\contentsline {subsection}{\numberline {5.2.5}Comandos}{24}{subsection.5.2.5}%
+\contentsline {subsection}{\numberline {5.2.6}Mensajes}{25}{subsection.5.2.6}%
