@@ -1,0 +1,184 @@
+%=========================================================
+\chapter{Introducción}
+
+Este documento contiene la especificación del proyecto ``{\em Sistema inteligente de apoyo estudiantil para la Escuela Superior de Cómputo (ESCOM)}'' correspondiente al trabajo realizado durante el periodo 2025-1 para la materia de Trabajo Terminal por el equipo conformado por {\em Rivero López Valeria} y {\em Ponce Fragoso Emmanuel}, bajo la dirección del profesor {\em Ulises Saldaña Vélez}, en la {\em Escuela Superior de Cómputo (ESCOM)} del Instituto Politécnico Nacional.
+
+%---------------------------------------------------------
+\section{Presentación}
+
+Este documento presenta la especificación técnica y conceptual del proyecto denominado ``Sistema inteligente de apoyo estudiantil para la Escuela Superior de Cómputo (ESCOM)''. Tiene como propósito detallar los requerimientos, objetivos y fundamentos del sistema, el cual propone una aplicación móvil con inteligencia artificial orientada a mejorar la experiencia académica y administrativa de los estudiantes.
+
+El documento servirá como base de referencia para el desarrollo, validación y evaluación del prototipo final del sistema durante el ciclo escolar. De igual forma, constituye el entregable correspondiente al Trabajo Terminal 1 (TT1) y al documento de Requerimientos del Trabajo Terminal (RE-TT).
+
+%---------------------------------------------------------
+\section{Organización del contenido}
+
+En este capítulo se introduce el contexto, los objetivos, la justificación y la metodología general del proyecto.  
+
+En el capítulo \ref{cap:reqUsr} se describen los requerimientos del usuario y los casos de uso del sistema.  
+
+En el capítulo \ref{cap:reqSist} se especifican los requerimientos funcionales y no funcionales, así como las trayectorias principales y alternativas asociadas a los casos de uso identificados.  
+
+%---------------------------------------------------------
+\section{Requerimientos Funcionales}
+
+A continuación, se describen los requerimientos funcionales del sistema propuesto:
+
+\begin{itemize}
+	\item \textbf{RF1.} El sistema debe permitir al usuario consultar información sobre trámites escolares, profesores, clubs, becas, fechas, avisos y conferencias.
+	\item \textbf{RF2.} El sistema debe proporcionar al usuario los medios de contacto de los profesores.
+	\item \textbf{RF3.} El sistema debe permitir recibir notificaciones a los usuarios según sus preferencias.
+	\item \textbf{RF4.} El sistema debe proporcionar un chatbot de ayuda para el usuario.
+	\item \textbf{RF5.} El sistema debe proporcionar un mapa interactivo para facilitar la búsqueda de profesores, áreas administrativas y áreas comunes.
+	\item \textbf{RF6.} El sistema debe permitir filtrar la visualización de áreas y profesores en el mapa interactivo.
+\end{itemize}
+
+%---------------------------------------------------------
+\section{Requerimientos No Funcionales}
+
+Los requerimientos no funcionales aseguran la calidad, disponibilidad y usabilidad del sistema:
+
+\begin{itemize}
+	\item \textbf{RNF1.} El sistema debe ser accesible desde un teléfono móvil o celular.
+	\item \textbf{RNF2.} El sistema debe permitir una navegación fluida entre sus herramientas.
+	\item \textbf{RNF3.} El sistema debe ser accesible y apto para los usuarios a quienes está dirigido.
+	\item \textbf{RNF4.} El sistema debe ser intuitivo y dinámico para los usuarios.
+	\item \textbf{RNF5.} El sistema debe contar con un diseño agradable para el usuario.
+	\item \textbf{RNF6.} El sistema debe ser accesible en cualquier momento.
+	\item \textbf{RNF7.} El sistema debe garantizar la seguridad en caso de que el usuario proporcione información personal.
+	\item \textbf{RNF8.} El sistema debe permitir el acceso múltiple de usuarios de manera concurrente.
+\end{itemize}
+
+%---------------------------------------------------------
+\section{Casos de Uso del Sistema}
+
+\subsection{Caso de Uso CUR1: Consultar mapa interactivo}
+
+\textbf{Actor:} Usuario \\
+\textbf{Propósito:} Permitir al usuario consultar la ubicación de profesores y áreas, mostrando información relevante al seleccionar un área o profesor, como trámites, horarios y personal a cargo. \\
+\textbf{Entradas:} Selección del mapa y filtros deseados desde el dispositivo móvil. \\
+\textbf{Salidas:} Información mostrada sobre el área o profesor seleccionado. \\
+\textbf{Errores:} 
+\begin{itemize}
+	\item MSG2: ``Sin conexión a internet.'' 
+	\item MSG3: ``No se puede mostrar el mapa.''
+\end{itemize}
+\textbf{Trayectoria principal:}
+\begin{enumerate}
+	\item El usuario selecciona el botón de Mapa Interactivo.
+	\item Selecciona el botón de aplicar filtros.
+	\item Selecciona filtros de profesores o áreas.
+	\item El sistema muestra el mapa con los filtros aplicados.
+\end{enumerate}
+\textbf{Trayectorias alternativas:}
+\begin{itemize}
+	\item A. El usuario solicita el mapa mediante el chatbot, y el sistema lo muestra.
+\end{itemize}
+
+%---------------------------------------------------------
+\subsection{Caso de Uso CUR1.1: Filtrar profesores}
+
+\textbf{Actor:} Usuario \\
+\textbf{Propósito:} Permitir filtrar los profesores mostrados en el mapa por área, disponibilidad, carrera, nombre o unidad de aprendizaje. \\
+\textbf{Entradas:} Selección de los filtros deseados desde la interfaz del mapa. \\
+\textbf{Salidas:} Visualización del mapa con los filtros aplicados. \\
+\textbf{Errores:} 
+\begin{itemize}
+	\item MSG2: ``Sin conexión a internet.'' 
+	\item MSG3: ``No se puede mostrar el mapa.'' 
+	\item MSG4: ``Profesor no encontrado.''
+\end{itemize}
+\textbf{Trayectoria principal:}
+\begin{enumerate}
+	\item El usuario selecciona la opción de filtrar profesores.
+	\item Elige los filtros deseados (área, carrera, unidad de aprendizaje, disponibilidad).
+	\item El sistema muestra el mapa actualizado con los filtros seleccionados.
+\end{enumerate}
+
+%---------------------------------------------------------
+\subsection{Caso de Uso CUR1.2: Filtrar áreas}
+
+\textbf{Actor:} Usuario \\
+\textbf{Propósito:} Permitir filtrar las áreas mostradas en el mapa (administrativas, cafeterías, canchas, papelerías, etc.). \\
+\textbf{Entradas:} Selección de los filtros desde el menú del mapa. \\
+\textbf{Salidas:} Visualización de las áreas filtradas. \\
+\textbf{Errores:}
+\begin{itemize}
+	\item MSG2: ``Sin conexión a internet.'' 
+	\item MSG3: ``No se puede mostrar el mapa.'' 
+	\item MSG4: ``Área no encontrada.''
+\end{itemize}
+\textbf{Trayectoria principal:}
+\begin{enumerate}
+	\item El usuario selecciona la opción de filtrar áreas.
+	\item Elige los filtros deseados (cafeterías, clubs, baños, oficinas, etc.).
+	\item El sistema muestra el mapa con las áreas seleccionadas.
+\end{enumerate}
+
+%---------------------------------------------------------
+\subsection{Caso de Uso CUR2: Consultar profesor}
+
+\textbf{Actor:} Usuario \\
+\textbf{Propósito:} Consultar información sobre un profesor (ubicación, horario, medios de contacto, áreas de interés). \\
+\textbf{Entradas:} Solicitud del usuario desde la interfaz o mediante el chatbot. \\
+\textbf{Salidas:} Información del profesor seleccionada. \\
+\textbf{Error:} MSG5: ``Profesor no encontrado.'' \\
+\textbf{Trayectoria principal:}
+\begin{enumerate}
+	\item El usuario selecciona la opción “Consultar profesor”.
+	\item El sistema muestra la información relevante del profesor.
+\end{enumerate}
+
+%---------------------------------------------------------
+\subsection{Caso de Uso CUR3: Utilizar chatbot}
+
+\textbf{Actor:} Usuario \\
+\textbf{Propósito:} Facilitar al usuario la obtención de información sobre ESCOM mediante un chatbot inteligente. \\
+\textbf{Entradas:} Pregunta o mensaje ingresado por el usuario. \\
+\textbf{Salidas:} Respuesta generada por el chatbot. \\
+\textbf{Errores:}
+\begin{itemize}
+	\item MSG2: ``Sin conexión a internet.'' 
+	\item MSG6: ``Lo siento, solo puedo ayudarte con preguntas relacionadas a ESCOM.''
+\end{itemize}
+\textbf{Trayectoria principal:}
+\begin{enumerate}
+	\item El usuario accede al chatbot.
+	\item Realiza una pregunta o selecciona una opción predefinida.
+	\item El sistema muestra la respuesta correspondiente.
+\end{enumerate}
+
+%---------------------------------------------------------
+\subsection{Caso de Uso CUR4: Consultar trámites}
+
+\textbf{Actor:} Usuario \\
+\textbf{Propósito:} Proporcionar al usuario la información sobre algún trámite de su interés. \\
+\textbf{Entradas:} Solicitud del usuario desde la opción “Consultar Trámite”. \\
+\textbf{Salidas:} Información del trámite seleccionado. \\
+\textbf{Trayectoria principal:}
+\begin{enumerate}
+	\item El usuario selecciona la opción “Consultar Trámite”.
+	\item El sistema muestra la información del trámite solicitado.
+\end{enumerate}
+
+%---------------------------------------------------------
+\section{Leyenda de abreviaciones utilizadas}
+
+\begin{table}[hbtp!]
+	\begin{center}
+		\begin{tabular}{|r l|}
+			\hline
+			{\footnotesize Id} & {\footnotesize\em Identificador del requerimiento.}\\
+			{\footnotesize Pri.} & {\footnotesize\em Prioridad asignada (MA, A, M, B, MB).}\\
+			{\footnotesize Ref.} & {\footnotesize\em Referencia a requerimientos de usuario (si aplica).}\\
+			{\footnotesize MA} & {\footnotesize\em Prioridad Muy Alta.}\\
+			{\footnotesize A} & {\footnotesize\em Prioridad Alta.}\\
+			{\footnotesize M} & {\footnotesize\em Prioridad Media.}\\
+			{\footnotesize B} & {\footnotesize\em Prioridad Baja.}\\
+			{\footnotesize MB} & {\footnotesize\em Prioridad Muy Baja.}\\
+			\hline
+		\end{tabular} 
+		\caption{Leyenda para las abreviaciones usadas en los requerimientos.}
+		\label{tbl:leyendaRS}
+	\end{center}
+\end{table}

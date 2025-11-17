@@ -1,0 +1,211 @@
+%=========================================================
+\chapter{Modelo del Alcance}
+\label{cap:reqUsr}
+
+En este capítulo se modela el alcance del sistema. Se presentan inicialmente los actores involucrados y sus requerimientos, especificando cuáles se alcanzaron en la primera iteración (TT1) y cuáles serán trabajados en la segunda iteración (TT2). Después se presentan los requerimientos de usuario de esta iteración y finalmente se presenta la especificación de plataforma y arquitectura del sistema.
+
+%---------------------------------------------------------
+\section{Modelado de Usuarios}
+\begin{figure}[htbp]
+	\begin{center}
+		\includegraphics[width=0.5\textwidth]{images/organigrama.png}
+		\caption{Organigrama académico de referencia del sistema inteligente de apoyo estudiantil.}
+		\label{fig:organigramaESCOM}
+	\end{center}
+	
+\end{figure}
+El sistema ``Sistema inteligente de apoyo estudiantil para la Escuela Superior de Cómputo (ESCOM)'' está dirigido principalmente a los estudiantes y profesores de la institución, brindando una plataforma móvil para acceder a información académica, administrativa y de servicios mediante un asistente inteligente (chatbot) y herramientas de localización.
+
+
+%---------------------------------------------------------
+\begin{Usuario}{\subsection{Estudiante}}{
+		Es el actor principal del sistema. Hace uso de la aplicación móvil para consultar información académica y administrativa, resolver dudas, acceder a avisos y localizar áreas o profesores dentro de la ESCOM.
+	}
+	\item[Responsabilidades:] \cdtEmpty
+	\begin{itemize}
+		\item Consultar información sobre trámites escolares, becas, conferencias y clubes estudiantiles.
+		\item Recibir notificaciones personalizadas sobre eventos o avisos.
+		\item Interactuar con el chatbot para resolver dudas académicas o administrativas.
+		\item Localizar áreas, profesores y servicios dentro del campus mediante el mapa interactivo.
+	\end{itemize}
+	
+	\item[Perfil:] \cdtEmpty
+	\begin{itemize}
+		\item Estudiante inscrito en la ESCOM.
+		\item Conocimiento básico en el uso de dispositivos móviles Android.
+		\item Necesidad frecuente de acceder a información institucional.
+	\end{itemize}
+	
+	\item[Procesos en los que participa:] \cdtEmpty
+	\begin{itemize}
+		\item PC-01 Consultar trámites escolares.
+		\item PC-02 Interactuar con el chatbot académico.
+		\item PC-03 Consultar mapa interactivo.
+		\item PC-04 Filtrar profesores y áreas.
+	\end{itemize}
+\end{Usuario}
+
+%---------------------------------------------------------
+\begin{Usuario}{\subsection{Profesor}}{
+		Es el actor secundario del sistema. Su participación consiste en mantener actualizada la información académica, horarios de atención y medios de contacto para que los estudiantes puedan comunicarse eficazmente.
+	}
+	\item[Responsabilidades:] \cdtEmpty
+	\begin{itemize}
+		\item Registrar o actualizar sus datos de contacto.
+		\item Proporcionar información sobre sus horarios y materias impartidas.
+		\item Consultar ubicaciones o dependencias dentro de la ESCOM.
+	\end{itemize}
+	
+	\item[Perfil:] \cdtEmpty
+	\begin{itemize}
+		\item Profesor de tiempo completo o asignatura de la ESCOM.
+		\item Conocimientos básicos del uso de aplicaciones móviles.
+	\end{itemize}
+	
+	\item[Procesos en los que participa:] \cdtEmpty
+	\begin{itemize}
+		\item PC-05 Actualizar datos de contacto.
+		\item PC-06 Consultar mapa interactivo.
+	\end{itemize}
+\end{Usuario}
+
+%---------------------------------------------------------
+\begin{Usuario}{\subsection{Administrador del Sistema}}{
+		Encargado de mantener actualizada la información institucional disponible en la aplicación y de monitorear el correcto funcionamiento del sistema y del chatbot.
+	}
+	\item[Responsabilidades:] \cdtEmpty
+	\begin{itemize}
+		\item Supervisar el contenido disponible en la aplicación móvil.
+		\item Actualizar la base de datos de profesores, áreas y trámites.
+		\item Administrar las respuestas del chatbot y la integración con fuentes oficiales.
+	\end{itemize}
+	
+	\item[Perfil:] \cdtEmpty
+	\begin{itemize}
+		\item Personal técnico o administrativo de ESCOM.
+		\item Conocimientos de mantenimiento de sistemas y gestión de información.
+	\end{itemize}
+	
+	\item[Procesos en los que participa:] \cdtEmpty
+	\begin{itemize}
+		\item PC-07 Actualización de datos institucionales.
+		\item PC-08 Monitoreo y mantenimiento del sistema.
+	\end{itemize}
+\end{Usuario}
+
+%---------------------------------------------------------
+\section{Requerimientos de usuario}
+
+A continuación, se presentan los requerimientos de usuario identificados en base al análisis de necesidades descrito en el Protocolo de TT1 y complementados con el documento RE-TT. Se especifica el nombre, descripción, prioridad y el estado de avance (alcanzado en TT1 o proyectado para TT2).
+
+\begin{table}[htbp!]
+	\begin{requerimientosU}
+		\FRitem{RU1}{Consulta de trámites escolares}{El usuario requiere acceder a información actualizada sobre trámites, pasos, horarios y departamentos responsables.}{1}{\DONE}
+		\FRitem{RU2}{Consulta de profesores}{El usuario requiere poder visualizar la información de contacto, ubicación y horario de atención de los profesores.}{1}{\DONE}
+		\FRitem{RU3}{Recepción de notificaciones}{El usuario desea recibir avisos y recordatorios personalizados de acuerdo con sus preferencias.}{2}{\DOING}
+		\FRitem{RU4}{Chatbot académico}{El usuario requiere una herramienta conversacional que le permita resolver dudas académicas y administrativas mediante IA.}{1}{\DONE}
+		\FRitem{RU5}{Mapa interactivo}{El usuario requiere visualizar la ubicación de profesores, áreas administrativas, servicios y espacios comunes de la ESCOM.}{1}{\DONE}
+		\FRitem{RU6}{Filtrado de información en mapa}{El usuario requiere filtrar el mapa para visualizar únicamente áreas o profesores específicos.}{2}{\DOING}
+		\FRitem{RU7}{Seguridad de datos personales}{El usuario requiere que el sistema garantice la seguridad y confidencialidad de su información.}{1}{\TODO}
+		\FRitem{RU8}{Interfaz amigable y atractiva}{El usuario requiere una aplicación de uso intuitivo, con diseño visual agradable.}{2}{\DOING}
+	\end{requerimientosU}
+	\caption{Requerimientos de usuario identificados en TT1 y TT2.}
+	{\footnotesize\em Véase la leyenda de estados y prioridades en la Tabla~\ref{tbl:leyendaRF}.}
+	\label{tbl:reqFunc}
+\end{table}
+
+%---------------------------------------------------------
+\section{Especificación de plataforma}
+
+El sistema propuesto es una aplicación móvil multiplataforma que integra servicios web y módulos de inteligencia artificial. La Figura~\ref{fig:arquitectura} ilustra su arquitectura general.
+
+\begin{figure}[htbp!]
+	\begin{center}
+		\fbox{\includegraphics[width=.6\textwidth]{images/arquitectura}}
+		\caption{Arquitectura general del sistema.}
+		\label{fig:arquitectura}
+	\end{center}
+\end{figure}
+
+La arquitectura está compuesta por tres capas principales:
+
+\begin{itemize}
+	\item \textbf{Capa de Presentación:} Interfaz móvil desarrollada con Flutter o Android Studio, que permite al usuario interactuar con el sistema mediante menús, chatbot y mapa interactivo.
+	\item \textbf{Capa Lógica:} Contiene los módulos de inteligencia artificial (chatbot basado en NLP y clasificadores de información), servicios de notificaciones y lógica de filtrado de datos.
+	\item \textbf{Capa de Datos:} Base de datos estructurada (Firebase o MySQL) para almacenar información institucional, perfiles de usuario y registros de interacción.
+\end{itemize}
+
+%---------------------------------------------------------
+\subsection{Tipo de sistema}
+
+\begin{itemize}
+	\item \textbf{Tipo de sistema:} Aplicación móvil multiplataforma con integración a servicios web.
+	\item \textbf{Software requerido:} Android Studio / Flutter, Python, API de Google Maps, Firebase, librerías de Procesamiento de Lenguaje Natural (spaCy o NLTK).
+	\item \textbf{Hardware requerido:} Smartphone Android 9.0 o superior, CPU de 4 núcleos, 3 GB RAM mínima, conexión a Internet.
+	\item \textbf{Servicios:} Conexión HTTPS, autenticación por tokens, respaldo en la nube, control de seguridad en Firebase, y conexión a APIs externas.
+\end{itemize}
+
+%---------------------------------------------------------
+\subsection{Modelo Físico y Lógico del Sistema}
+
+\begin{figure}[htbp!]
+	\begin{center}
+		\fbox{\includegraphics[width=.9\textwidth]{images/modeloFisicoLogico}}
+		\caption{Modelo físico y lógico del sistema.}
+		\label{fig:modeloFisico}
+	\end{center}
+\end{figure}
+
+En el modelo físico se representa la relación entre los componentes de hardware (dispositivo móvil, servidor de base de datos y API de servicios externos).  
+El modelo lógico muestra la relación entre las entidades principales: usuario, profesor, área, trámite y chatbot, permitiendo gestionar la información de manera estructurada y accesible.
+
+---
+
+\begin{table}[hbtp!]
+	\begin{center}
+		\begin{tabular}{|r l|}
+			\hline
+			{\footnotesize Estado} & {\footnotesize\em Significado.}\\
+			{\footnotesize \DONE} & {\footnotesize\em Requerimiento completado durante TT1.}\\
+			{\footnotesize \DOING} & {\footnotesize\em En desarrollo o mejora para TT2.}\\
+			{\footnotesize \TODO} & {\footnotesize\em Pendiente de implementación.}\\
+			\hline
+			{\footnotesize Pri. 1} & {\footnotesize\em Prioridad Muy Alta.}\\
+			{\footnotesize Pri. 2} & {\footnotesize\em Prioridad Alta.}\\
+			{\footnotesize Pri. 3} & {\footnotesize\em Prioridad Media.}\\
+			\hline
+		\end{tabular}
+		\caption{Leyenda de prioridades y estados de avance de los requerimientos.}
+		\label{tbl:leyendaRF}
+	\end{center}
+\end{table}
+
+
+
+%---------------------------------------------------------
+\section{Especificación de plataforma}	
+
+\cdtInstrucciones{
+	Coloque un diagrama y su descripción para aclarar el tipo de solución propuesta. \\
+	
+ En esta sección se debe aclarar:
+	
+\begin{description}
+	\item[Tipo de sistema:] Web, aplicación móvil, de escritorio, híbrida, etc.
+	\item[Software requerido:] Programas que se deberán instalar, desde el sistema operativo, compiladores, interpretes, servidores, etc.
+	\item[Hardware requerido:] CPU, núcleos, velocidad, memoria, disco duro, etc.
+	\item[servicios:] De conexión, seguridad, firewall, respaldo de energía, redundancia, uso de raids, etc.
+\end{description}
+}
+
+\begin{figure}[htbp!]
+	\begin{center}
+		\fbox{\includegraphics[width=.6\textwidth]{images/arquitectura}}
+		\caption{Arquitectura del sistema.}
+		\label{fig:arquitectura}
+	\end{center}
+\end{figure}
+
+En la figura~\ref{fig:arquitectura} se describe la estructura del sistema, en ella se detalla ...
+
+
