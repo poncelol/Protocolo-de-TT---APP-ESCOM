@@ -1,0 +1,16 @@
+# Archivos de compilación de LaTeX a ignorar
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.toc
+*.lof
+*.lot
+*.fls
+*.synctex.gz
+*.fdb_latexmk
+*.nav
+*.snm
+*.vrb
+*.pdf # Opcional: si quieres que el PDF esté en Git, omite esta línea
